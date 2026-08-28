@@ -1,7 +1,7 @@
 ## ADD PARAMEDIC TEAM/GROUND SERVICE FIELD MEDIC IMPROVEMENTS
 New players can play as not just [Plant Security](https://naramo-nuclear-plant-v2.fandom.com/wiki/Plant_Security), [Plant Maintenance](https://naramo-nuclear-plant-v2.fandom.com/wiki/Plant_Maintenance), and [West Noobian Assault Force](https://naramo-nuclear-plant-v2.fandom.com/wiki/West_Noobian_Assault_Force), but now the NEW ***PARAMEDIC*** TEAM!
 
-- In order to unlock Ground Service Field Medic, you need 75k XP on paramedic team along with the existing requirements.
+- In order to unlock Ground Service Field Medic, you need 100k XP on paramedic team along with the existing requirements.
 - Paramedic team is unarmed and won't ever be armed unless the [DX-21](https://naramo-nuclear-plant-v2.fandom.com/wiki/DX-21#Trivia) gamepass and/or [Exigent Circumstances Act](https://naramo-nuclear-plant-v2.fandom.com/wiki/Department_of_Energy_Executive) still apply.
 - Paramedics will spawn in city like LMP
 - They will have access to radio
@@ -35,11 +35,31 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 
 <hr>
 
+### Off-Road Ambulance
+|UI Speed|Health|XP requirement|
+|---|---|---|
+|70|20|15,000|
 
-Off-Road Ambulance (Speed: 70) (Health: 20) (10k XP)
-[Has supplies for up to 3 patients, Higher ground clearance and bullbar for mobility purposes]
-Heavy Rescue (Speed: 55) (Health: 25) (15k XP)
-[Has supplies for up to 6 patients, A dually ambulance upfit that can fit 1 patient on a stretcher and 2 on the sides for a total of 3 patients]
-Mass Casualty Bus (Speed: 45) (Health: 30) (25k XP)
-[Has supplies for up to 15 patients, A bus decked out with medical equipment, lights, and stretchers]
+> Has on board medical supplies for a total of 3 patients, Much like normal Ambulance but with higher ground clearance and pushbar for mobility purposes
+![ ](/staticContent/offroadAmbulance.jpg)
+
+<hr>
+
+### Medium-Duty Ambulance
+|UI Speed|Health|XP requirement|
+|---|---|---|
+|55|25|45,000|
+
+> Has on board medical supplies for a total of 6 patients, Much larger ambulance with a dually chassis + push bar with the ability to carry 1 patient in the center stretcher, and 2 on the sides for a total of 3 patients.
+![ ](/staticContent/mediumAmbulance.jpeg)
+
+<hr>
+
+### Mass Casualty Bus
+|UI Speed|Health|XP requirement|
+|---|---|---|
+|45|30|80,000|
+
+> Has supplies for up to 15 patients, A bus decked out with medical equipment, lights, and stretchers
+![ ](/staticContent/massCasualtyVeh.mp4)
 
