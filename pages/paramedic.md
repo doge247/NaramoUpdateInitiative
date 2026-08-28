@@ -15,7 +15,7 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 
 <hr>
 
-### Ambulance Van (Speed: 85) (Health: 12) (0 XP)
+### Ambulance Van
 |UI Speed|Health|XP requirement|
 |---|---|---|
 |85|12 (same as [sedan](https://naramo-nuclear-plant-v2.fandom.com/wiki/Sedan))|0|
@@ -25,8 +25,17 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 
 <hr>
 
-### Ambulance (Speed: 70) (Health: 15) (5k XP)
-[Has supplies for up to 3 patients, Has ambulance upfit]
+### Ambulance
+|UI Speed|Health|XP requirement|
+|---|---|---|
+|70|15|5,000|
+
+> Has on board medical supplies for a total of 3 patients, Uses an ambulance upfit
+![ ](/staticContent/ambulance.jpg)
+
+<hr>
+
+
 Off-Road Ambulance (Speed: 70) (Health: 20) (10k XP)
 [Has supplies for up to 3 patients, Higher ground clearance and bullbar for mobility purposes]
 Heavy Rescue (Speed: 55) (Health: 25) (15k XP)
