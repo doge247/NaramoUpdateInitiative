@@ -21,7 +21,7 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 > Doesn't have on board medical supplies, Takes on a regular van form factor
 ![ ](/staticContent/vanAmbulance.jpg)
 
-Ambulance (Speed: 70) (Health: 15) (5k XP)
+### Ambulance (Speed: 70) (Health: 15) (5k XP)
 [Has supplies for up to 3 patients, Has ambulance upfit]
 Off-Road Ambulance (Speed: 70) (Health: 20) (10k XP)
 [Has supplies for up to 3 patients, Higher ground clearance and bullbar for mobility purposes]
