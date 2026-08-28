@@ -61,5 +61,6 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 |45|30|80,000|
 
 > Has supplies for up to 15 patients, A bus decked out with medical equipment, lights, and stretchers
-[![ ](/staticContent/thumbnailmav.png)](<video controls src="https://raw.githubusercontent.com/doge247/NaramoUpdateInitiative/refs/heads/main/staticContent/massCausaltyVeh.mp4" title="/staticContent/massCasualtyVeh.mp4"></video>)
+[![ ](/staticContent/thumbnailmav.png)]()
 
+<video controls src="https://raw.githubusercontent.com/doge247/NaramoUpdateInitiative/refs/heads/main/staticContent/massCausaltyVeh.mp4" title="/staticContent/massCasualtyVeh.mp4"></video>
