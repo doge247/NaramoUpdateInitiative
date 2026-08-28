@@ -19,7 +19,7 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 |85|12 (same as [sedan](https://naramo-nuclear-plant-v2.fandom.com/wiki/Sedan))|0|
 
 > Doesn't have on board medical supplies, Takes on a regular van form factor
-![ ](staticContent/vanAmbulance.jpg)
+![ ](/staticContent/vanAmbulance.jpg)
 
 Ambulance (Speed: 70) (Health: 15) (5k XP)
 [Has supplies for up to 3 patients, Has ambulance upfit]
