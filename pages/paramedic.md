@@ -11,12 +11,16 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 ## Vehicles In Depth
 - Better medical vehicles come with their own medical supplies. (BOTH GSP AND PARAMEDIC)
 - A medical vehicle's on board medical supplies can be ***refilled*** if you select the ***Medical Supplies Pack tool*** in the ***Special*** slot in ***Loadout***. (BOTH GSP AND PARAMEDIC)
+- All medical vehicles are equipped with [defibrillators](https://en.wikipedia.org/wiki/Defibrillation)
 
 ### Ambulance Van (Speed: 85) (Health: 12) (0 XP)
-|Speed|Health|XP requirement|
+|UI Speed|Health|XP requirement|
 |---|---|---|
-|git status|List all new or modified files|
-- [Doesn't have on board medical supplies, Takes on a regular van form factor]
+|85|12 (same as [sedan](https://naramo-nuclear-plant-v2.fandom.com/wiki/Sedan))|0|
+
+> Doesn't have on board medical supplies, Takes on a regular van form factor
+![ ](staticContent/vanAmbulance.jpg)
+
 Ambulance (Speed: 70) (Health: 15) (5k XP)
 [Has supplies for up to 3 patients, Has ambulance upfit]
 Off-Road Ambulance (Speed: 70) (Health: 20) (10k XP)
