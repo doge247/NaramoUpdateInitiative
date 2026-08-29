@@ -1,5 +1,8 @@
 ## Gameplay improvements
 - GUNS LEAVE BULLET HOLES THAT DISSAPEAR AFTER A WHILE DEPENDING ON WHAT GOT SHOT.
+- > MAKE [XM-3-U7 EAP](https://naramo-nuclear-plant-v2.fandom.com/wiki/XM-3-U7_EAP) AND [WN VT-6](https://naramo-nuclear-plant-v2.fandom.com/wiki/WN_VT-6) ROOF GUN FUNCTIONAL.
+![ ](/staticContent/xmAndVt.png)
+- Bullets can shatter normal glass in 1 shot (Civilian vehicles, Plant Alarms, Building Windows, Street lights, Etc...)
 - MAKE [T-29 SPRINGBOLT](https://naramo-nuclear-plant-v2.fandom.com/wiki/T-29_Springbolt) BAYONET FUNCTIONAL LIKE THE [T-42 MATCHBOX](https://naramo-nuclear-plant-v2.fandom.com/wiki/T-42_Matchbox)
 - > Fix tools being lost when you loose right arm so if a [Paramedic or GSFM](/pages/paramedic.md) restores your limbs, you can shoot again.
 ![ ](/staticContent/armlost.gif)
