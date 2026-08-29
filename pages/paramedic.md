@@ -5,13 +5,17 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 - Paramedic team is unarmed and won't ever be armed unless the [DX-21](https://naramo-nuclear-plant-v2.fandom.com/wiki/DX-21#Trivia) gamepass and/or [Exigent Circumstances Act](https://naramo-nuclear-plant-v2.fandom.com/wiki/Department_of_Energy_Executive) still apply.
 - Paramedics will spawn in city like LMP
 - They will have access to radio
+- Medics are able to restore limbs on players.
 - They can still aid West Noobians/[Bloxians](https://naramo-nuclear-plant-v2.fandom.com/wiki/Bloxian_Commonwealth) for XP
 - They will have a civilian version of [IFAK](https://naramo-nuclear-plant-v2.fandom.com/wiki/IFAK). (Medkit or whatever it's called)
 - Paramedic and Ground Service Field Medics can pick up dead players and place them in a vehicle's stretcher as long as the down player doesn't "give up".
+- They can also extinguish players on fire.
 ## Vehicles In Depth
-- Better medical vehicles come with their own medical supplies. (BOTH GSP AND PARAMEDIC)
-- A medical vehicle's on board medical supplies can be ***refilled*** if you select the ***Medical Supplies Pack tool*** in the ***Special*** slot in ***Loadout***. (BOTH GSP AND PARAMEDIC)
-- All medical vehicles are equipped with [defibrillators](https://en.wikipedia.org/wiki/Defibrillation)
+- Better medical vehicles come with their own medical supplies. (BOTH GSFM AND PARAMEDIC)
+- A medical vehicle's on board medical supplies can be ***refilled*** if you select the ***Medical Supplies Pack tool*** in the ***Special*** slot in ***Loadout***. (BOTH GSFM AND PARAMEDIC)
+- All medical vehicles are equipped with [defibrillators](https://en.wikipedia.org/wiki/Defibrillation) that have a chance of reviving a dead player depending on how they died and if they are treated fast enough.
+- The GSFM [LLMV](https://naramo-nuclear-plant-v2.fandom.com/wiki/LLMV) can treat up to 8 patients before needing to be reloaded.
+- The GSFM [MTV-M](https://naramo-nuclear-plant-v2.fandom.com/wiki/MTV-M) can treat up to 25 patients before needing to be reloaded.
 
 <hr>
 
