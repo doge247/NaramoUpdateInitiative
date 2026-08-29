@@ -4,8 +4,7 @@
 - > Fix tools being lost when you loose right arm so if a [Paramedic or GSFM](/pages/paramedic.md) restores your limbs, you can shoot again.
 ![ ](/staticContent/armlost.gif)
 - Revamp loadout and inventory system like blackhawk rescue mission 5
-- > change up roblox default proximity prompts and make them look better
-.
+- > change up roblox default proximity prompts and make them look better.
 ![ ](/staticContent/uglyProxPrompt.png)
 - Add a Weather system (consists of rain, fog, thunderstorms, wind, etc...)
 - > Fix [M41 Anti-Air](https://naramo-nuclear-plant-v2.fandom.com/wiki/M41_Anti_Air) cannon being detached from the rest of the gun.
