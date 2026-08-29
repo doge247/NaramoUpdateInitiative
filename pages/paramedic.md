@@ -50,7 +50,7 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 |---|---|---|
 |55|25|45,000|
 
-> Has on board medical supplies for a total of 6 patients, Much larger ambulance with a dually chassis + push bar with the ability to carry 1 patient in the center stretcher, and 2 on the sides for a total of 3 patients.
+> Has on board medical supplies for a total of 6 patients, Much larger ambulance with a dually chassis + push bar with the ability to carry 1 patient in the center stretcher, and 2 on the sides for a total of 3 patients. Shares the same engine compartment as the Mass Casualty Bus
 ![ ](/staticContent/mediumAmbulance.jpeg)
 
 <hr>
@@ -60,5 +60,5 @@ New players can play as not just [Plant Security](https://naramo-nuclear-plant-v
 |---|---|---|
 |45|30|80,000|
 
-> Has supplies for up to 15 patients, A bus decked out with medical equipment, lights, and stretchers
+> Has supplies for up to 15 patients, A bus decked out with medical equipment, lights, and stretchers. Shares the same engine compartment as the Medium-Duty Ambulance
 [![ ](/staticContent/massCasualtyVeh.png)](https://drive.google.com/file/d/12xJy58g1us2kFWzQWVVGFK49_-nSlgzD/view?usp=sharing)
