@@ -6,3 +6,4 @@ Below are links to update ideas:
  - [Improve civilian team/City](pages/civilians.md)
  - [Gameplay improvements (Vehicle Fixes, Tank features, Guns, Weather, Etc...)](pages/gameplay.md)
  - [MAKE THE VEHICLE SYSTEM BETTER](pages/vehicles.md)
+ - [ADD A BANK TO THE GAME](pages/bank.md)
