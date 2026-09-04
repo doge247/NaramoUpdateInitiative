@@ -14,5 +14,5 @@
 ![ ](/staticContent/m41cannon.png)
 - > Fix [M52 VADS](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52R1_VADS) left wheels being flipped.
 ![ ](/staticContent/vadstracks.gif)
-- > Update [M52 APC Bloxian](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_APC_Bloxian) and [M52 IFV](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_IFV) chassis to the modern one.
+- > Update [M52 APC Bloxian](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_APC_Bloxian), [M52 IFV](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_IFV), and all similar chassis to the modern one.
 ![ ](/staticContent/m52upgrades.gif)
