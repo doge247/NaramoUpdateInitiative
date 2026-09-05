@@ -1,4 +1,8 @@
 ## BFO upgrades
+<details>
+
+<summary> ### [M52 APC Bloxian](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_APC_Bloxian) UPGRADES: </summary>
+
 ### [M52 APC Bloxian](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_APC_Bloxian) UPGRADES:
 - > Update all BFO M52 variant chassis to the modern M52 chassis.
 ![ ](/staticContent/m52upgrades.gif)
@@ -10,5 +14,6 @@
 ![ ](/staticContent/smokeGrenadesM52.png)
 - > Add a variant of the M52 APC Bloxian with a mounted [Mk 19 Mod 3 grenade launcher](https://en.wikipedia.org/wiki/Mk_19_grenade_launcher).
 ![ ](/staticContent/mk19-mod3.jpg)
+</details>
 
 [^1]: "Heavy-armor" is a term I made up for the stronger armor found on the [M52 IFV](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_IFV), [M52 APC "Garbage"](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_APC_%22Garbage%22), and the [M52A2 APC](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52A2_APC) that weaken shots taken at it by 15% (50 DMG -> 42 DMG)
