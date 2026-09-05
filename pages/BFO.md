@@ -2,8 +2,8 @@
 ### [M52 APC Bloxian](https://naramo-nuclear-plant-v2.fandom.com/wiki/M52_APC_Bloxian) UPGRADES:
 - > Update all BFO M52 chassis to the modern M52 chassis one.
 ![ ](/staticContent/m52upgrades.gif)
-- > Give all BFO M52s the same M52A2/M52 "garbage" damage resistance.
-![ ](/staticContent/placeholder.png)
+- > Give all BFO M52s heavy-armor.
+![ ](/staticContent/m52armor.png)
 - > Give the M52 AMR APC 200 instead of 120 Health.
 ![ ](/staticContent/placeholder.png)
 - > Give the BFO M52s smoke grenades.
