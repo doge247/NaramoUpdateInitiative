@@ -21,8 +21,6 @@ The PMVA1 (T) Bloxian is slower than the same and just as capable WNAF [PMVA1 (T
 ![ ](/staticContent/m52amrhealthbuff.png)
 - > Give the BFO M52s smoke grenades.
 ![ ](/staticContent/smokeGrenadesM52.png)
-- > Add a variant of the M52 APC Bloxian with a mounted [Mk 19 Mod 3 grenade launcher](https://en.wikipedia.org/wiki/Mk_19_grenade_launcher).
-![ ](/staticContent/mk19-mod3.jpg)
 </details>
 <details>
 <summary id="scoutUpgrades">PMV Scout upgrades</summary>
