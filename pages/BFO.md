@@ -1,12 +1,12 @@
 ## BFO upgrades
 ⬇️  Below are collapsible sections that you can click to open
-<details open>
+<details>
 <summary id="generalPMVupgrades">Upgrade all PMVs</summary>
 
 ### Applies to [PMV Scout](https://naramo-nuclear-plant-v2.fandom.com/wiki/PMV_Scout) and [PMVA1 (T) Bloxian](https://naramo-nuclear-plant-v2.fandom.com/wiki/PMVA1_(T)_Bloxian)
 The PMV Scout is slower than the [WNAF](https://naramo-nuclear-plant-v2.fandom.com/wiki/West_Noobian_Assault_Force) [PMVA1 (T)](https://naramo-nuclear-plant-v2.fandom.com/wiki/PMVA1_(T)) and weaker than an unarmred/unarmored [PMV](https://naramo-nuclear-plant-v2.fandom.com/wiki/PMV).
 The PMVA1 (T) Bloxian is slower than the same and just as capable WNAF [PMVA1 (T)](https://naramo-nuclear-plant-v2.fandom.com/wiki/PMVA1_(T)).
-- Give the PMV Scout atleast 25 health and give both the PMV Scout and PMVA1 (T) Bloxian a top speed of 40.
+- Give the PMV Scout atleast 25 health ([Scout upgrades here](#scoutUpgrades)) and give both the PMV Scout and PMVA1 (T) Bloxian a top speed of 40.
 </details>
 <details>
 <summary id="bfoM52">M52 APC Bloxian UPGRADES</summary>
