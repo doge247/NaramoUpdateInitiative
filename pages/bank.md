@@ -20,7 +20,7 @@ Adding a bank to naramo could easily add a new challenge to naramo, and the best
 - Civilians could rob the bank but only if the [civilian team gets improved](/pages/civilians.md) first off
 - The [WNAF](https://naramo-nuclear-plant-v2.fandom.com/wiki/West_Noobian_Assault_Force), [BFO](https://naramo-nuclear-plant-v2.fandom.com/wiki/Bloxian_Commonwealth), [FRR](https://naramo-nuclear-plant-v2.fandom.com/wiki/Federal_Ranger_Regiment), and [FMDF](https://naramo-nuclear-plant-v2.fandom.com/wiki/Federal_Maritime_Defense_Force) could rob the bank to help disrupt the shift and get some XP for themselves.
 - WN could get passive XP whenever the bank is down just like if they were holding the port.
-- Anti-tank and the NEW 40x53mm ammunition could play a role in robbing the bank.
+- Anti-tank and the [NEW 40x53mm ammunition](https://github.com/doge247/NaramoUpdateInitiative/blob/main/pages/WNWeapons.md#add-40x53mm-high-velocity-hedp-grenades) could play a role in robbing the bank.
 ## Vehicles in depth
 - Both the Armored Car and Heavy Armored Car will share the same engine compartment as the [Mass Casualty Bus](/pages/paramedic.md#mass-casualty-bus)/[Medium-Duty Ambulance](/pages/paramedic.md#medium-duty-ambulance).
 - Both vehicles have the same armor (NOT HEALTH) as the [HTV](https://naramo-nuclear-plant-v2.fandom.com/wiki/HTV).
