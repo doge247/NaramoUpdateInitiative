@@ -7,3 +7,6 @@ Below are links to update ideas:
  - [Gameplay improvements (Vehicle Fixes, Tank features, Guns, Weather, Etc...)](pages/gameplay.md)
  - [MAKE THE VEHICLE SYSTEM BETTER](pages/vehicles.md)
  - [ADD A BANK TO THE GAME](pages/bank.md)
+ - [MAKE BFO MORE WORTH IT](pages/BFO.md)
+ - [Give vehicles a better emergency lighting system](pages/Els.md)
+ - [New weapons AND MECHANICS (BFO, FRR, WN, FMDF)](pages/WNWeapons.md)
